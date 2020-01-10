@@ -1,0 +1,10 @@
+# Don't track content of these folders
+data/
+models/
+.idea/
+logdir/
+demo/
+
+*.ipynb
+*.pyc
+*.txt
